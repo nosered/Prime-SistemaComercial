@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Manual Do Usuário
-
-PRIME – Sistema Comercial
+# PRIME – Sistema Comercial (Manual do usuário)
 
 V.1.0.0
 
